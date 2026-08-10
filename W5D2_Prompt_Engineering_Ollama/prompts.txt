@@ -1,0 +1,9 @@
+1. What is Machine Learning?
+
+2. Explain Neural Networks.
+
+3. What is Prompt Engineering?
+
+4. What is Deep Learning?
+
+5. Difference between AI and ML?
