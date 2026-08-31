@@ -1,0 +1,39 @@
+W8D3 - BM25 VS DENSE RETRIEVAL COMPARISON
+
+Number of PDF Documents: 5
+Number of Questions: 10
+Top-K: 3
+
+## RESULTS
+
+BM25 Overall Precision@3: 83.3%
+
+Dense Retrieval Overall Precision@3: 86.7%
+
+## COMPARISON
+
+Dense Retrieval improved Precision@3 by approximately 3.4 percentage
+points compared with the BM25 baseline.
+
+## OBSERVATIONS
+
+1. BM25 performed well when important query words directly matched the
+   document text.
+
+2. Dense Retrieval performed well for semantic questions where related
+   concepts were expressed using different words.
+
+3. Dense Retrieval achieved higher overall Precision@3 than BM25 in
+   this experiment.
+
+4. Dense Retrieval still retrieved some broadly related but
+   insufficiently relevant content for some questions.
+
+5. The experiment demonstrates the trade-off between keyword-based
+   retrieval and semantic retrieval.
+
+## CONCLUSION
+
+For this dataset and the ten test questions, Dense Retrieval achieved
+higher Precision@3 than BM25. Therefore, Dense Retrieval is a useful
+alternative to BM25 when semantic similarity is important.

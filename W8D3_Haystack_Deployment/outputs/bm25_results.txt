@@ -1,0 +1,203 @@
+W8D3 HAYSTACK BM25 RETRIEVAL RESULTS
+======================================================================
+
+QUESTION 1: What is artificial intelligence?
+----------------------------------------------------------------------
+
+Rank 1
+Source: artificial_intelligence.pdf
+Score: 18.19774613196419
+Content: computer system that is able to do something that it was not    explicitly programmed to do    - In general, most definitions are centered around the idea computers simulate human    intelligence    - AI is generally considered to be behavior based rather than implementation based    - In other words, it doesn’t matter what’s going on inside the computer, it just matters    what the computer is saying/doing    - To understand why the definition of AI is so broad and fluid, we need to look at the...
+
+Rank 2
+Source: artificial_intelligence.pdf
+Score: 17.564034403903534
+Content: be at the forefront of the conversations surrounding AI in the near future.        We then go into a discussion on the technique behind most modern AI systems: Machine Learning.  We    cover some of the basic machine learning methods, state of the art machine learning models (neural    networks) and some of the constraints of machine learning.          What is Artificial Intelligence    - There is not a widely accepted definition of artificial intelligence.    - My favorite definition is that AI...
+
+Rank 3
+Source: artificial_intelligence.pdf
+Score: 16.972169655039487
+Content: it was a total failure and the    field was quiet again until 1993.       Modern Artificial Intelligence    - AI field has seen a renaissance in the past few decades    - Computer processors have sped up, memory volume has increased, and data processing    algorithms have improved    - The adoption of the GPU for highly optimized ML tasks has made analysis of massive datasets    possible    - The widespread adoption of Machine Learning has formed the backbone of almost every    Artificial Intell...
+
+======================================================================
+
+QUESTION 2: What are the applications of artificial intelligence?
+----------------------------------------------------------------------
+
+Rank 1
+Source: artificial_intelligence.pdf
+Score: 20.167142079810645
+Content: computer system that is able to do something that it was not    explicitly programmed to do    - In general, most definitions are centered around the idea computers simulate human    intelligence    - AI is generally considered to be behavior based rather than implementation based    - In other words, it doesn’t matter what’s going on inside the computer, it just matters    what the computer is saying/doing    - To understand why the definition of AI is so broad and fluid, we need to look at the...
+
+Rank 2
+Source: artificial_intelligence.pdf
+Score: 19.504565065262497
+Content: be at the forefront of the conversations surrounding AI in the near future.        We then go into a discussion on the technique behind most modern AI systems: Machine Learning.  We    cover some of the basic machine learning methods, state of the art machine learning models (neural    networks) and some of the constraints of machine learning.          What is Artificial Intelligence    - There is not a widely accepted definition of artificial intelligence.    - My favorite definition is that AI...
+
+Rank 3
+Source: artificial_intelligence.pdf
+Score: 18.733621067138873
+Content: it was a total failure and the    field was quiet again until 1993.       Modern Artificial Intelligence    - AI field has seen a renaissance in the past few decades    - Computer processors have sped up, memory volume has increased, and data processing    algorithms have improved    - The adoption of the GPU for highly optimized ML tasks has made analysis of massive datasets    possible    - The widespread adoption of Machine Learning has formed the backbone of almost every    Artificial Intell...
+
+======================================================================
+
+QUESTION 3: What is cloud computing?
+----------------------------------------------------------------------
+
+Rank 1
+Source: cloud_computing.pdf
+Score: 14.776997519506095
+Content: The NIST Definition of Cloud Computing  Authors: Peter Mell and Tim Grance  Version 15, 10-7-09    National Institute of Standards and Technology, Information Technology Laboratory    Note 1: Cloud computing is still an evolving paradigm. Its definitions, use cases, underlying  technologies, issues, risks, and benefits will be refined in a spirited debate by the public and  private sectors. These definitions, attributes, and characteristics will evolve and change over time.    Note 2: The cloud ...
+
+Rank 2
+Source: cloud_computing.pdf
+Score: 12.455112250681616
+Content: the possible exception of  limited user-specific application configuration settings.  Cloud Platform as a Service (PaaS). The capability provided to the consumer is to deploy  onto the cloud infrastructure consumer-created or acquired applications created  using programming languages and tools supported by the provider. The consumer  does not manage or control the underlying cloud infrastructure including network,  servers, operating systems, or storage, but has control over the deployed  applic...
+
+Rank 3
+Source: software_engineering.pdf
+Score: 11.786121406445336
+Content: - pling or tight coupling (see section 5.6 in the  Computing Foundations KA and section 2.2  in the Software Architecture KA). Nowadays, more applications are migrated  to the cloud. Cloud-based software often adopts  microservice architecture and container-based  deployment. In addition to traditional dis - tributed software issues, cloud-based soft - ware developers also need to consider cloud  infrastructure issues such as use of an API  gateway, service registration and discovery. Distribute...
+
+======================================================================
+
+QUESTION 4: What are the benefits of cloud computing?
+----------------------------------------------------------------------
+
+Rank 1
+Source: cloud_computing.pdf
+Score: 20.144642138283118
+Content: The NIST Definition of Cloud Computing  Authors: Peter Mell and Tim Grance  Version 15, 10-7-09    National Institute of Standards and Technology, Information Technology Laboratory    Note 1: Cloud computing is still an evolving paradigm. Its definitions, use cases, underlying  technologies, issues, risks, and benefits will be refined in a spirited debate by the public and  private sectors. These definitions, attributes, and characteristics will evolve and change over time.    Note 2: The cloud ...
+
+Rank 2
+Source: software_engineering.pdf
+Score: 17.37998545169792
+Content: computer network is a group of devices that  are connected for sharing information. The  connected devices (nodes on the network)  can be located near one another, on the same  premises, or somewhere else. Networking is  required for certain benefits, including cer - tain modes of communication and infor - mation sharing; the ability to share devices  such as printers, routers and video cameras;  global information and data storing; security  and policy enforcement; remote monitoring;  shared bu...
+
+Rank 3
+Source: software_engineering.pdf
+Score: 15.256725839269794
+Content:  (AI). This offers potential benefits for cost,  quality and efficiency.  Industry 4.0’s emphasis  on digitization and AI calls for building  bespoke hardware and software and inte - grating these with other standard systems.  This is supported by Continuous Software  Engineering (CSE), which has been  addressing continuous manufacturing prac - tices such as continuous planning, continuous  architecting/designing, continuous devel - opment, continuous integration, continuous  deployments and con...
+
+======================================================================
+
+QUESTION 5: What is software engineering?
+----------------------------------------------------------------------
+
+Rank 1
+Source: software_engineering.pdf
+Score: 7.248555135551729
+Content: engineering. 1 http://pascal.computer.org/sev_display/index.action. A few software engineering standards  have standardized descriptions of products  of software engineering, such as models or  information products like a project manage - ment plan (ISO/IEC/IEEE 16326). Another  notable standard for information products is  ISO/IEC/IEEE 15289, Systems and software  engineering — Contents of life cycle information  items (documentation). Initially, most software  engineering standards were standa...
+
+Rank 2
+Source: software_engineering.pdf
+Score: 6.571756020194422
+Content: the US) that a graduate  would take after completing four years of  work experience. These two definitions should  be seen as complementary. KA editors are also expected to be some - what forward-looking in their interpre - tation by taking into consideration not  only what is “generally recognized” today  but also what they expect will be “gener - ally recognized” in a three- to five-year  time frame. LENGTH OF KA DESCRIPTION KA Descriptions are to be roughly 10 to  20 pages using the formattin...
+
+Rank 3
+Source: software_engineering.pdf
+Score: 6.546994049103763
+Content: fundamental ques - tion, “Is it in the best interest of this enterprise  to invest its limited resources in this technical  endeavor, or would the same investment pro - duce a higher return elsewhere?” Paraphrasing  the definition in [1], engineering is “finding the  balance between what is technically feasible  and what is economically acceptable.” Software engineering must be value-based .  Neutral — or worse, negative — value from  an organization’s investment in software is not  sustainable....
+
+======================================================================
+
+QUESTION 6: What are the phases of the software development life cycle?
+----------------------------------------------------------------------
+
+Rank 1
+Source: software_engineering.pdf
+Score: 17.36250715343436
+Content: as the  “model of the software development process  in which the constituent activities, typically  a concept phase, requirements phase, design  phase, implementation phase, test phase, and  installation and checkout phase, are performed  in that order, possibly with overlap but with  little or no iteration.” The waterfall model is  clearly an example of a predictive life cycle.  Some other paradigms, such as the incre - mental life cycle, also attempted to address  the “software crisis.” In thi...
+
+Rank 2
+Source: software_engineering.pdf
+Score: 16.861229917543817
+Content: required to produce software did  not adequately describe all the complexity  of software systems. It was also necessary to  define life cycles, which include a number of  processes and constraints [8]. In software engineering, development  refers  to a crucial stage of a system, product, ser - vice or project life cycle: that of building (or  changing) a software system according to  the stakeholders’ needs. From a production/ industrial management perspective, software  systems are referred to...
+
+Rank 3
+Source: software_engineering.pdf
+Score: 16.819233424026592
+Content: for IDEF011-1  CHAPTER 11 Software Engineering Models  and Methods ACRONYMS 3GL 3rd Generation Language     BNF Backus-Naur Form FDD Feature-Driven Development IDE Integrated Development  Environment RAD Rapid Application Development UML Unified Modeling Language XP eXtreme Programming INTRODUCTION Software engineering models and methods  impose structure on software engineering  to make it systematic, repeatable and ulti - mately more success-oriented. Models  provide an approach to problem-so...
+
+======================================================================
+
+QUESTION 7: What is software design?
+----------------------------------------------------------------------
+
+Rank 1
+Source: software_design.pdf
+Score: 7.453486034559713
+Content: component  failure  • Performance – yields results at a high rate or  with low latency 9 September 2008  Refining a Design  • Step through Use Cases  • Verify completeness of diagram by asking:  • Which methods execute?  • What methods are called?  • What does each method or object have to know?  • Consider quality attributes  • Make concrete with a test  • e.g. modification scenario, performance target  • Generate multiple designs –NOT JUST ONE!  • What design patterns achieve this attribute? ...
+
+Rank 2
+Source: software_engineering.pdf
+Score: 7.2529231246173405
+Content: whole and  in relation to its environment (see Software  Architecture KA). The high-level design stage is outward-facing  — developing the top-level structure and orga- nization of the software, identifying its various  components and how that software system and  its components interact with the environment  and its elements. The detailed design stage is inward-facing   — specifying each component in sufficient  detail to facilitate its construction and to meet  its outside obligations, includi...
+
+Rank 3
+Source: software_design.pdf
+Score: 7.164519019545889
+Content: Design and Information Hiding  15-313:  Foundations of Software Engineering  Jonathan Aldrich  Related Reading: D. L. Parnas. On the Criteria  To Be Used in Decomposing Systems into  Modules. CACM 15(12):1053-1058, Dec 1972.  Some ideas from David Notkin’s CSE 503 class 9 September 2008  What makes one design better than  another?  • Not what result is produced, or whether it is right • Rather quality attributes: how the result is  produced.  • Extensibility – ability to easily add and change  ...
+
+======================================================================
+
+QUESTION 8: What are the principles of software design?
+----------------------------------------------------------------------
+
+Rank 1
+Source: software_engineering.pdf
+Score: 12.28504000483495
+Content: quantita - tive methods, such as discussed in Software  Engineering Economics KA. Software  design principles are key notions that provide  the basis for many different software design  concepts, approaches and methods. The prin - ciples listed below apply to any of the three  stages of design. Many of these principles are  interrelated. Whether alone or used in combi - nation with other principles, they are reflected  elsewhere in software design to produce many  concepts and constructs found i...
+
+Rank 2
+Source: software_engineering.pdf
+Score: 11.970875606623792
+Content: function - ality, are referred to as aspects, which “tend not  to be units of software’s functional decompo - sition, but rather to be properties that affect  the performance or semantics of the compo - nents in systemic ways” [12].  1.4. Software Design Principles [4*, c4.2] A principle is “a fundamental truth or proposi- tion that serves as the foundation for a system  of belief or behavior or for a chain of rea - soning.” [Oxford English Dictionary]  Design principles provide direction or gui...
+
+Rank 3
+Source: software_engineering.pdf
+Score: 11.235113306929296
+Content: data structures 3. Software Design Qualities [4*, c4] Software requirements and architecture direc - tives are intended to guide software toward  certain characteristics or design qualities .  Design qualities are an important subclass of  concerns (see topic Stakeholders and Concerns   in Software Architecture KA). One role of  design principles (see section 1.4 Software  Design Principles ) is to help software achieve  these qualities. Among the characteristics of  interest to designers are th...
+
+======================================================================
+
+QUESTION 9: What is the relationship between software engineering and software design?
+----------------------------------------------------------------------
+
+Rank 1
+Source: software_engineering.pdf
+Score: 14.610916856823206
+Content: the vari - ables are negatively correlated, an increase of  one leads to a decrease in the other. Always remember that correlation does  not imply causation. Thus, if two variables  are correlated, we cannot conclude that one  causes the other. Regression. The correlation analysis only  measures the degree of relationship between  two variables. The analysis to find the strength  of the relationship between two variables is  called regression analysis. This analysis uses the  coefficient of dete...
+
+Rank 2
+Source: software_engineering.pdf
+Score: 13.904840498569452
+Content: - ware design must solve. • Software Design’s relationship with soft - ware architecture: In cases where an  architecture has been established, that  architecture constrains the design by  capturing fundamental aspects of the  system: such as its major components and  their interconnections, application pro - gramming interfaces (APIs), styles and  patterns to be used, and architectural  principles to be observed and enforced. • Software Design’s relationship with soft - ware construction: The s...
+
+Rank 3
+Source: software_engineering.pdf
+Score: 13.20663942240657
+Content:  Design Description Behavioral Design Description Design Patterns Specialized Domain-Speciﬁc Languages Design Rationale General Strategies Function-Oriented Data-Centered Object-Oriented User-Centered Component-Based Event-Driven Aspect-Oriented Constraint-Based Domain-Driven Design Other Methods Design Reviews  and Audits Quality Attributes Quality Analysis  and Evaluation  Techniques Measures and  Metrics Veriﬁcation,  Validation and Certiﬁcation Software Design Processes Software Design Quali...
+
+======================================================================
+
+QUESTION 10: What are the common challenges in software development?
+----------------------------------------------------------------------
+
+Rank 1
+Source: software_engineering.pdf
+Score: 13.425244460105619
+Content: companies,  consumer finance businesses, invest - ment funds and stock brokerages) could  be necessary to apply the testing process  effectively and efficiently. Customer satis- faction, usability, security, privacy, third- party component and apps integrations,  real-time issues, and performance are  some of the most important challenges in  this domain. 7. T esting of and T esting Through  Emerging T echnologies  Software development was driven by emerging  trends such as the widespread diffus...
+
+Rank 2
+Source: software_engineering.pdf
+Score: 12.704018427076049
+Content:  fewer individuals are familiar with the soft - ware; this could also lead to lower-quality doc- umentation, as fewer individuals are involved.  However, having a separate maintenance  function also has its challenges, as many soft - ware engineers do not like limiting their work  to maintenance and may be more likely to SOFTWARE MAINTENANCE   7-9 leave for more interesting work. In addition, a  handoff process must be put in place between  developers and maintainers, which sometimes  leads to ...
+
+Rank 3
+Source: software_engineering.pdf
+Score: 12.643156380026323
+Content: various CPU scheduling concepts,  scheduling algorithms, algorithm evalua - tions, multiple processor scheduling and real- time scheduling, concurrent programming,  deadlocks, critical regions, conditional crit - ical regions, and monitors. Communication among different pro - cesses is important in multitasking, mul - tiuser OSs. A software engineer must have a  deep understanding of inter-process commu - nication (IPC), and types of IPCs, including  messages, pipes, shared memory, semaphores,  ...
+
+======================================================================
+

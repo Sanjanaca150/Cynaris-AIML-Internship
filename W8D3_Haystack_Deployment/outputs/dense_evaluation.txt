@@ -1,0 +1,74 @@
+W8D3 - DENSE RETRIEVAL EVALUATION
+
+Retrieval Method: Dense Retrieval
+Embedding Model: sentence-transformers/all-MiniLM-L6-v2
+Number of PDF Documents: 5
+Number of Questions: 10
+Top-K: 3
+
+Evaluation Metric:
+Precision@3 = Number of relevant retrieved results / 3
+
+## RESULTS
+
+Q1: What is artificial intelligence?
+Relevant Results: 2/3
+Precision@3: 66.7%
+
+Q2: What are the applications of artificial intelligence?
+Relevant Results: 2/3
+Precision@3: 66.7%
+
+Q3: What is cloud computing?
+Relevant Results: 3/3
+Precision@3: 100%
+
+Q4: What are the benefits of cloud computing?
+Relevant Results: 3/3
+Precision@3: 100%
+
+Q5: What is software engineering?
+Relevant Results: 3/3
+Precision@3: 100%
+
+Q6: What are the phases of the software development life cycle?
+Relevant Results: 3/3
+Precision@3: 100%
+
+Q7: What is software design?
+Relevant Results: 3/3
+Precision@3: 100%
+
+Q8: What are the principles of software design?
+Relevant Results: 3/3
+Precision@3: 100%
+
+Q9: What is the relationship between software engineering and software design?
+Relevant Results: 2/3
+Precision@3: 66.7%
+
+Q10: What are the common challenges in software development?
+Relevant Results: 2/3
+Precision@3: 66.7%
+
+## OVERALL RESULT
+
+Total relevant results: 26
+Total retrieved results: 30
+
+Overall Dense Precision@3: 86.7%
+
+## OBSERVATION
+
+Dense Retrieval performed well for semantic queries where the meaning
+of the question matched the content of the documents.
+
+It performed better than BM25 for questions related to cloud computing,
+software design and software engineering.
+
+However, some unrelated software engineering content was retrieved for
+the artificial intelligence questions. This shows that dense retrieval
+can sometimes identify broad semantic similarity instead of exact
+topic relevance.
+
+The Dense Retrieval result will be compared with the BM25 baseline.

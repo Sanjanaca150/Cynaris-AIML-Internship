@@ -1,0 +1,68 @@
+W8D3 - BM25 RETRIEVAL EVALUATION
+
+Retrieval Method: BM25
+Number of PDF Documents: 5
+Number of Questions: 10
+Top-K: 3
+
+Evaluation Metric:
+Precision@3 = Number of relevant retrieved documents / 3
+
+## RESULTS
+
+Q1: What is artificial intelligence?
+Relevant Results: 3/3
+Precision@3: 100%
+
+Q2: What are the applications of artificial intelligence?
+Relevant Results: 3/3
+Precision@3: 100%
+
+Q3: What is cloud computing?
+Relevant Results: 3/3
+Precision@3: 100%
+
+Q4: What are the benefits of cloud computing?
+Relevant Results: 1/3
+Precision@3: 33.3%
+
+Q5: What is software engineering?
+Relevant Results: 3/3
+Precision@3: 100%
+
+Q6: What are the phases of the software development life cycle?
+Relevant Results: 3/3
+Precision@3: 100%
+
+Q7: What is software design?
+Relevant Results: 3/3
+Precision@3: 100%
+
+Q8: What are the principles of software design?
+Relevant Results: 3/3
+Precision@3: 100%
+
+Q9: What is the relationship between software engineering and software design?
+Relevant Results: 0/3
+Precision@3: 0%
+
+Q10: What are the common challenges in software development?
+Relevant Results: 2/3
+Precision@3: 66.7%
+
+## OVERALL RESULT
+
+Total relevant results: 25
+Total retrieved results: 30
+
+Overall Precision@3: 83.3%
+
+## OBSERVATION
+
+BM25 provided strong retrieval when the query terms closely matched
+the terms present in the documents. However, retrieval quality was
+lower for broader or relationship-based questions, such as the
+relationship between software engineering and software design.
+
+This BM25 result will be used as the baseline for comparison with
+Dense Retrieval.
