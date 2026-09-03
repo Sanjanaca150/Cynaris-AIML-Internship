@@ -1,0 +1,23 @@
+Artificial Intelligence
+
+Artificial Intelligence (AI) is a field of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence. These tasks include learning, reasoning, problem solving, understanding language, and recognizing patterns.
+
+Machine Learning
+
+Machine Learning (ML) is a subset of Artificial Intelligence. It enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every possible situation.
+
+Natural Language Processing
+
+Natural Language Processing (NLP) is a branch of AI that enables computers to understand, process, and generate human language. Common applications include chatbots, sentiment analysis, text classification, and machine translation.
+
+Retrieval-Augmented Generation
+
+Retrieval-Augmented Generation (RAG) combines information retrieval with language generation. A retrieval component searches a knowledge source for relevant information, and the retrieved information is then used to generate a more grounded answer.
+
+Large Language Models
+
+Large Language Models (LLMs) are machine learning models trained on large collections of text. They can perform tasks such as question answering, summarization, text generation, translation, and research assistance.
+
+AI Research Assistants
+
+An AI research assistant helps users find and organize relevant information and generate concise answers to research questions. A local research assistant can use a local knowledge base so that information retrieval does not depend entirely on external services.
