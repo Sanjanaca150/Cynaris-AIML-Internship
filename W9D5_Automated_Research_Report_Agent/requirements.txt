@@ -1,0 +1,9 @@
+crewai
+crewai-tools
+langgraph
+mlflow
+ragas
+pytest
+langchain-ollama
+requests
+beautifulsoup4
