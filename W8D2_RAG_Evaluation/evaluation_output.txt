@@ -1,0 +1,36 @@
+============================================================
+W8D2 - RAG EVALUATION USING RAGAS
+============================================================
+
+BASELINE CONFIGURATION
+------------------------------------------------------------
+chunk_size = 100
+chunk_overlap = 10
+retrieval k = 1
+RAG model = llama3.2:3b
+Evaluator model = qwen2.5:3b
+
+BASELINE RESULTS
+------------------------------------------------------------
+{'faithfulness': 0.4889, 'answer_relevancy': 0.4325, 'context_precision': 0.9000, 'context_recall': 0.9000}
+
+OPTIMIZED CONFIGURATION
+------------------------------------------------------------
+chunk_size = 100
+chunk_overlap = 10
+retrieval k = 3
+RAG model = llama3.2:3b
+Evaluator model = qwen2.5:3b
+
+OPTIMIZED RESULTS
+------------------------------------------------------------
+{'faithfulness': 0.6333, 'answer_relevancy': 0.4756, 'context_precision': 0.9500, 'context_recall': 0.9000}
+
+BASELINE VS OPTIMIZED
+------------------------------------------------------------
+Baseline retrieval k = 1
+Optimized retrieval k = 3
+Changed variable = retrieval k
+Chunk size = 100 for both configurations
+
+RAG Evaluation completed successfully.

@@ -1,0 +1,14 @@
+
+The RAG (Retrieval-Augmented Generation) framework enhances Large Language Models by fetching relevant facts from an external knowledge base.
+
+ChromaDB is an open-source vector database designed for storing and querying vector embeddings efficiently.
+
+Ragas is a framework that helps evaluate Retrieval-Augmented Generation (RAG) pipelines without requiring extensive human annotations.
+
+Faithfulness measures how grounded the answer is in the retrieved context.
+
+Answer Relevancy measures how pertinent the generated answer is to the user's question.
+
+Context Precision measures the signal-to-noise ratio of the retrieved context.
+
+Context Recall measures if all relevant information needed to answer the question was retrieved.
