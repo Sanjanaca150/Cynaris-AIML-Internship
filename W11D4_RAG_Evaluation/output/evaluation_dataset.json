@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What are common symptoms of diabetes?",
+    "answer": "Common symptoms of diabetes can include increased thirst, frequent urination, increased hunger, fatigue, and blurred vision.",
+    "contexts": [
+      "or does not produce enough insulin. Common symptoms of diabetes can include increased thirst, frequent urination, increased hunger, fatigue, and blurred vision. Diabetes can be managed through healthy eating, physical activity, medication when prescribed, and regular monitoring of blood glucose"
+    ],
+    "ground_truth": "Common symptoms of diabetes include increased thirst, frequent urination, increased hunger, fatigue, and blurred vision."
+  },
+  {
+    "question": "What is hypertension?",
+    "answer": "Hypertension.",
+    "contexts": [
+      "2. Hypertension"
+    ],
+    "ground_truth": "Hypertension is a condition in which the force of blood against artery walls remains consistently elevated."
+  },
+  {
+    "question": "What are common symptoms of asthma?",
+    "answer": "Common symptoms of asthma include wheezing, coughing, chest tightness, and shortness of breath.",
+    "contexts": [
+      "Asthma is a chronic respiratory condition that causes inflammation and narrowing of the airways. Symptoms may include wheezing, coughing, chest tightness, and shortness of breath. Asthma symptoms can be triggered by allergens, respiratory infections, exercise, smoke, and other environmental"
+    ],
+    "ground_truth": "Common symptoms of asthma include wheezing, coughing, chest tightness, and shortness of breath."
+  },
+  {
+    "question": "What is one common cause of anemia?",
+    "answer": "Iron deficiency is one common cause of anemia.",
+    "contexts": [
+      "Anemia occurs when the blood does not have enough healthy red blood cells or hemoglobin to carry adequate oxygen to body tissues. Iron deficiency is one common cause of anemia. Symptoms may include tiredness, weakness, dizziness, pale skin, and shortness of breath. Treatment depends on the"
+    ],
+    "ground_truth": "Iron deficiency is one common cause of anemia."
+  },
+  {
+    "question": "Are antibiotics effective against the common cold?",
+    "answer": "No, antibiotics are not effective against the common cold.",
+    "contexts": [
+      "The common cold is a viral infection that usually affects the upper respiratory tract. Symptoms can include a runny nose, sore throat, coughing, sneezing, and mild fatigue. Most common colds improve with rest, fluids, and supportive care. Antibiotics do not treat viral infections such as the common"
+    ],
+    "ground_truth": "No. Antibiotics do not treat viral infections such as the common cold."
+  },
+  {
+    "question": "What is influenza?",
+    "answer": "Influenza.",
+    "contexts": [
+      "6. Influenza"
+    ],
+    "ground_truth": "Influenza, or flu, is a contagious respiratory illness caused by influenza viruses."
+  },
+  {
+    "question": "What are some risk factors for heart disease?",
+    "answer": "According to the provided context, some risk factors for heart disease include:\n\n1. High blood pressure\n2. High cholesterol\n3. Smoking\n4. Diabetes\n5. Physical inactivity (implied by the mention of \"physical inactivity\" as a separate point, but not explicitly listed as a risk factor)",
+    "contexts": [
+      "Heart disease refers to several conditions affecting the heart and blood vessels. Coronary artery disease is one common form and occurs when the arteries supplying the heart become narrowed or blocked. Risk factors can include high blood pressure, high cholesterol, smoking, diabetes, physical"
+    ],
+    "ground_truth": "Risk factors can include high blood pressure, high cholesterol, smoking, diabetes, physical inactivity, and family history."
+  },
+  {
+    "question": "What do the kidneys do?",
+    "answer": "The kidneys filter waste and excess fluid from the blood and help regulate fluid, electrolytes, and blood pressure.",
+    "contexts": [
+      "The kidneys filter waste and excess fluid from the blood and help regulate fluid, electrolytes, and blood pressure. Chronic kidney disease involves a gradual loss of kidney function over time. Diabetes and hypertension are important risk factors for chronic kidney disease. Regular medical"
+    ],
+    "ground_truth": "The kidneys filter waste and excess fluid from the blood and help regulate fluid, electrolytes, and blood pressure."
+  },
+  {
+    "question": "What does a balanced diet provide?",
+    "answer": "A balanced diet provides carbohydrates, proteins, fats, vitamins, minerals, fiber, and water.",
+    "contexts": [
+      "A balanced diet provides the body with carbohydrates, proteins, fats, vitamins, minerals, fiber, and water. Fruits, vegetables, whole grains, legumes, nuts, and other nutrient-dense foods can contribute to a healthy diet. Individual nutritional needs vary depending on age, activity level, health"
+    ],
+    "ground_truth": "A balanced diet provides carbohydrates, proteins, fats, vitamins, minerals, fiber, and water."
+  },
+  {
+    "question": "What is preventive healthcare?",
+    "answer": "Preventive healthcare refers to measures taken to prevent or reduce the risk of illness, injury, or disease.",
+    "contexts": [
+      "10. Preventive Healthcare"
+    ],
+    "ground_truth": "Preventive healthcare focuses on reducing the risk of disease and detecting health problems early."
+  }
+]
