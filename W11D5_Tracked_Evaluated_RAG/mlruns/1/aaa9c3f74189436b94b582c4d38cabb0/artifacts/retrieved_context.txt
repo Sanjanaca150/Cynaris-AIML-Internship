@@ -1,0 +1,5 @@
+ChromaDB is a vector database commonly used for storing embeddings and performing similarity-based retrieval. It allows applications to retrieve documents that are semantically relevant to a query.
+
+Ragas is an evaluation framework for Retrieval-Augmented Generation systems. It provides metrics for evaluating aspects such as faithfulness, answer relevancy, context precision, and context recall.
+
+MLflow is an MLOps platform used for experiment tracking, model management, and evaluation. It can record parameters, metrics, artifacts, and run information.

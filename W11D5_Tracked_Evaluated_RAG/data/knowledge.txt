@@ -1,0 +1,15 @@
+Retrieval-Augmented Generation (RAG) combines information retrieval with large language model generation. A RAG system first retrieves relevant documents from a knowledge base and then provides the retrieved context to a language model to generate an answer.
+
+LangGraph is a framework for building stateful workflows with language-model applications. It represents an application as a graph of nodes and edges. Nodes perform individual operations such as retrieval or generation.
+
+CrewAI is a framework for orchestrating AI agents and tasks. Agents can be assigned specific roles and goals and can collaborate to complete a workflow.
+
+MLflow is an MLOps platform used for experiment tracking, model management, and evaluation. It can record parameters, metrics, artifacts, and run information.
+
+Ragas is an evaluation framework for Retrieval-Augmented Generation systems. It provides metrics for evaluating aspects such as faithfulness, answer relevancy, context precision, and context recall.
+
+ChromaDB is a vector database commonly used for storing embeddings and performing similarity-based retrieval. It allows applications to retrieve documents that are semantically relevant to a query.
+
+Ollama allows large language models to run locally. It can be used to run models such as Llama locally without requiring a hosted API.
+
+An MLOps pipeline helps automate machine learning development, testing, deployment, monitoring, and evaluation. Tracking experiments and evaluating RAG quality are important parts of maintaining reliable AI systems.

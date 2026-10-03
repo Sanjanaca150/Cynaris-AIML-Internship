@@ -1,0 +1,1 @@
+{'faithfulness': nan, 'answer_relevancy': 1.0000, 'context_precision': nan, 'context_recall': 0.5000}
