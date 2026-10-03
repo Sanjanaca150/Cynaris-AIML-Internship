@@ -1,0 +1,38 @@
+artifact_path: file:///C:/Users/Sanjana CA/OneDrive/Documents/CynarisInternship/W11D3_MLflow_Model_Serving/mlruns/1/models/m-23777ba7ec6548649af3357922b0e194/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.12.5
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.1
+    skops_trusted_types:
+    - sklearn.tree._tree.Tree
+is_signature_from_type_hint: false
+mlflow_version: 3.16.1
+model_id: m-23777ba7ec6548649af3357922b0e194
+model_size_bytes: 2728308
+model_uuid: m-23777ba7ec6548649af3357922b0e194
+prompts: null
+run_id: a7c6d3acd27a4b088242d190f908e3d5
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "sepal length (cm)", "required": true}, {"type":
+    "double", "name": "sepal width (cm)", "required": true}, {"type": "double", "name":
+    "petal length (cm)", "required": true}, {"type": "double", "name": "petal width
+    (cm)", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-09-17 11:07:04.857008'

@@ -1,0 +1,33 @@
+artifact_path: file:///C:/Users/Sanjana CA/OneDrive/Documents/CynarisInternship/W11D1_MLflow_Experiment_Tracking/mlruns/1/models/m-5b792df6ede947d5905f55d6f536da4f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.12.5
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.1
+    skops_trusted_types: null
+is_signature_from_type_hint: false
+mlflow_version: 3.16.0
+model_id: m-5b792df6ede947d5905f55d6f536da4f
+model_size_bytes: 3625935
+model_uuid: m-5b792df6ede947d5905f55d6f536da4f
+prompts: null
+run_id: 0ee081126d2d479dba1557679f1af114
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: ndarray
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 4]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-09-16 12:19:07.070047'

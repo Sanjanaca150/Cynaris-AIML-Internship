@@ -1,0 +1,15 @@
+{
+    "evaluation_type": "optimized",
+    "dataset_size": 10,
+    "chunk_size": 300,
+    "chunk_overlap": 50,
+    "retrieval_k": 3,
+    "llm": "llama3.2:3b",
+    "embedding_model": "nomic-embed-text:latest",
+    "scores": {
+        "faithfulness": null,
+        "answer_relevancy": null,
+        "context_precision": null,
+        "context_recall": null
+    }
+}

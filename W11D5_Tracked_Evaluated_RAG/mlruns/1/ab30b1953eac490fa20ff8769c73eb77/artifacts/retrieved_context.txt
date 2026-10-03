@@ -1,0 +1,5 @@
+Retrieval-Augmented Generation (RAG) combines information retrieval with large language model generation. A RAG system first retrieves relevant documents from a knowledge base and then provides the retrieved context to a language model to generate an answer.
+
+Ragas is an evaluation framework for Retrieval-Augmented Generation systems. It provides metrics for evaluating aspects such as faithfulness, answer relevancy, context precision, and context recall.
+
+An MLOps pipeline helps automate machine learning development, testing, deployment, monitoring, and evaluation. Tracking experiments and evaluating RAG quality are important parts of maintaining reliable AI systems.

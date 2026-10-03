@@ -1,0 +1,41 @@
+Healthcare Knowledge Base
+
+1. Diabetes
+
+Diabetes is a chronic condition in which blood glucose levels remain higher than normal. Type 1 diabetes occurs when the immune system attacks insulin-producing cells in the pancreas. Type 2 diabetes occurs when the body does not use insulin effectively or does not produce enough insulin. Common symptoms of diabetes can include increased thirst, frequent urination, increased hunger, fatigue, and blurred vision. Diabetes can be managed through healthy eating, physical activity, medication when prescribed, and regular monitoring of blood glucose.
+
+2. Hypertension
+
+Hypertension, also called high blood pressure, is a condition in which the force of blood against artery walls remains consistently elevated. High blood pressure may not always cause noticeable symptoms. Risk factors include high sodium intake, physical inactivity, obesity, stress, and family history. Regular blood pressure monitoring, healthy eating, physical activity, and medical care can help manage hypertension.
+
+3. Asthma
+
+Asthma is a chronic condition that affects the airways and can make breathing difficult. Common symptoms include wheezing, coughing, chest tightness, and shortness of breath. Symptoms may be triggered by allergens, respiratory infections, exercise, smoke, or air pollution. Treatment may include inhaled medicines prescribed by a healthcare professional.
+
+4. Anemia
+
+Anemia occurs when the blood does not have enough healthy red blood cells or hemoglobin to carry oxygen effectively. One common cause of anemia is iron deficiency. Symptoms can include fatigue, weakness, pale skin, dizziness, and shortness of breath. Iron-rich foods and appropriate medical treatment may help depending on the cause.
+
+5. Common Cold
+
+The common cold is a viral infection of the upper respiratory tract. Common symptoms include a runny nose, sore throat, coughing, sneezing, and mild fatigue. Antibiotics are not effective against the common cold because antibiotics treat bacterial infections, not viral infections. Rest, fluids, and symptom management are commonly recommended.
+
+6. Influenza
+
+Influenza, commonly called the flu, is a contagious respiratory illness caused by influenza viruses. Common symptoms can include fever, cough, sore throat, muscle aches, headache, chills, and fatigue. Influenza can spread through respiratory droplets and close contact. Vaccination and good hygiene practices can help reduce the risk of infection.
+
+7. Heart Disease
+
+Heart disease refers to several conditions affecting the heart and blood vessels. Risk factors can include high blood pressure, high cholesterol, smoking, diabetes, physical inactivity, obesity, and family history. A heart-healthy lifestyle that includes regular physical activity, balanced nutrition, avoiding tobacco, and managing health conditions can help reduce risk.
+
+8. Kidney Health
+
+The kidneys are organs that filter waste and excess fluid from the blood to produce urine. They also help regulate fluid balance, electrolytes, and blood pressure. Drinking adequate fluids, managing blood pressure and blood glucose, and following medical advice can support kidney health.
+
+9. Nutrition
+
+A balanced diet provides the body with carbohydrates, proteins, fats, vitamins, minerals, fiber, and water. Eating a variety of vegetables, fruits, whole grains, protein sources, and healthy fats can support overall health. Adequate nutrition is important for energy, growth, immune function, and maintaining body tissues.
+
+10. Preventive Healthcare
+
+Preventive healthcare focuses on reducing the risk of disease and detecting health problems early. Preventive measures can include vaccinations, health screenings, regular physical activity, balanced nutrition, avoiding tobacco, and maintaining healthy lifestyle habits. Early detection can allow health problems to be addressed before they become more serious.
