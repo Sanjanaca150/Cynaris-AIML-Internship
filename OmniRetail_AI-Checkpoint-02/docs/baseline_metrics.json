@@ -1,0 +1,14 @@
+{
+    "model": "Logistic Regression",
+    "dataset": "aiml_ecommerce_clickstream.csv",
+    "total_records": 1000,
+    "training_records": 800,
+    "testing_records": 200,
+    "feature_count": 9,
+    "target": "label_purchased",
+    "accuracy": 0.49,
+    "precision": 0.5306,
+    "recall": 0.7027,
+    "f1_score": 0.6047,
+    "roc_auc": 0.4498
+}
