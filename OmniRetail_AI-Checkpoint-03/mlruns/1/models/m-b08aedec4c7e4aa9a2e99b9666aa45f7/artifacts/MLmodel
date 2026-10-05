@@ -1,0 +1,25 @@
+artifact_path: file:///C:/Users/Sanjana CA/OneDrive/Documents/CynarisInternship/OmniRetail_AI-Checkpoint-03/mlruns/1/models/m-b08aedec4c7e4aa9a2e99b9666aa45f7/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.12.5
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.1
+    skops_trusted_types:
+    - numpy.dtype
+    - sklearn.tree._tree.Tree
+mlflow_version: 3.16.1
+model_id: m-b08aedec4c7e4aa9a2e99b9666aa45f7
+model_size_bytes: 20133226
+model_uuid: m-b08aedec4c7e4aa9a2e99b9666aa45f7
+prompts: null
+run_id: 67b2ac8c5fee40abb2146958859c6bf6
+utc_time_created: '2026-10-05 14:00:52.118208'
