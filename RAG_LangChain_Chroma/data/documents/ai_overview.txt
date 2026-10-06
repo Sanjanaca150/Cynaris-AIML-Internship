@@ -1,0 +1,13 @@
+Artificial Intelligence Overview
+
+Artificial Intelligence, commonly called AI, is a field of computer science focused on creating systems that can perform tasks that normally require human intelligence.
+
+AI systems can perform tasks such as understanding language, recognizing images, making predictions, solving problems, and supporting decision making.
+
+Machine learning is an important subfield of artificial intelligence. Instead of explicitly programming every rule, machine learning systems learn patterns from data.
+
+AI applications are used in healthcare, education, finance, transportation, customer service, manufacturing, and many other areas.
+
+Modern AI systems can use machine learning, deep learning, natural language processing, computer vision, and generative AI techniques.
+
+Responsible AI development should consider reliability, transparency, privacy, security, fairness, and human oversight.

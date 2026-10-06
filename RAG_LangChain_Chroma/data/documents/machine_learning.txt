@@ -1,0 +1,15 @@
+Machine Learning
+
+Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every individual task.
+
+The three common categories of machine learning are supervised learning, unsupervised learning, and reinforcement learning.
+
+Supervised learning uses labeled training data. Classification and regression are common supervised learning tasks.
+
+Unsupervised learning works with data that does not have predefined labels. Clustering and dimensionality reduction are examples of unsupervised learning.
+
+Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.
+
+A typical machine learning workflow includes collecting data, cleaning data, preparing features, splitting data into training and testing sets, training a model, evaluating its performance, and deploying the model when appropriate.
+
+Common machine learning algorithms include linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors, and neural networks.
